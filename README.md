@@ -1,4 +1,4 @@
-# � Inventory Management System 
+# � Inventory Management System <span style="color:#FF5733">#ShivaVinodkumar</span>
 
 <div align="center">
   
